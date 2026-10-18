@@ -66,6 +66,7 @@ challenges:
   - slug: the-long-game
     title: Patience is a side channel
     category: crypto
+
     points: 600
     min_points: 150
     decay_solves: 5
